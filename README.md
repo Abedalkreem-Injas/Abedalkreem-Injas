@@ -1,5 +1,7 @@
 
-👋 About Me
+👋 About Me 
+
+
 I’m a recent Computer Science graduate from Birzeit University with a strong foundation in software development, problem-solving, and computer science principles.
 I’m passionate about building high-quality applications, exploring modern technologies, and solving real-world problems through code.
 
