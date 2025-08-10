@@ -1,16 +1,19 @@
-## Hi there 👋
 
-<!--
-**Abedalkreem-Injas/Abedalkreem-Injas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 About Me
+I’m a recent Computer Science graduate from Birzeit University with a strong foundation in software development, problem-solving, and computer science principles.
+I’m passionate about building high-quality applications, exploring modern technologies, and solving real-world problems through code.
 
-Here are some ideas to get you started:
+🚀 Skills & Technologies
+Mobile Development: Flutter, Android (Java), Dart
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Backend & Databases: Firebase, MySQL, PHP
+
+Programming Languages: Java (OOP), Python, C
+
+Web Development: HTML, CSS, PHP
+
+Other Skills: Data Science, Algorithms & Data Structures, Problem-Solving, Teamwork
+
+🎓 Education
+B.Sc. in Computer Science – Birzeit University (2020 – 2025)
+
